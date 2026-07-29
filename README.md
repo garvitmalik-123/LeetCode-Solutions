@@ -69,3 +69,19 @@ LeetCode-Java-Solutions
 ### ⭐ If you find this repository useful, feel free to star it!
 
 Happy Coding 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
+<!---LeetCode Topics End-->
