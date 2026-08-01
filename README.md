@@ -76,11 +76,13 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
+| [2568-minimum-impossible-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2568-minimum-impossible-or) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
+| [2568-minimum-impossible-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2568-minimum-impossible-or) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,4 +107,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2568-minimum-impossible-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2568-minimum-impossible-or) |
 <!---LeetCode Topics End-->
