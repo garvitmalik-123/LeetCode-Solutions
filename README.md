@@ -79,6 +79,7 @@ Happy Coding 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 ## Sliding Window
 |  |
