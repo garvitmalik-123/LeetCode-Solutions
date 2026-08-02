@@ -75,6 +75,7 @@ Happy Coding 🚀
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2568-minimum-impossible-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2568-minimum-impossible-or) |
@@ -118,4 +119,16 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
