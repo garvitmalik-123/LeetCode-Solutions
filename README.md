@@ -86,6 +86,7 @@ Happy Coding 🚀
 | [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2568-minimum-impossible-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2568-minimum-impossible-or) |
+| [3133-minimum-array-end](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3133-minimum-array-end) |
 ## Sliding Window
 |  |
 | ------- |
