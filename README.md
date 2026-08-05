@@ -75,6 +75,7 @@ Happy Coding 🚀
 ## Array
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
@@ -132,6 +133,7 @@ Happy Coding 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -145,5 +147,10 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0845-longest-mountain-in-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [1089-duplicate-zeros](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
