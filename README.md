@@ -103,6 +103,7 @@ Happy Coding 🚀
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -143,5 +144,6 @@ Happy Coding 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1089-duplicate-zeros](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 <!---LeetCode Topics End-->
