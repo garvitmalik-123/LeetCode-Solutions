@@ -83,6 +83,7 @@ Happy Coding 🚀
 | [2568-minimum-impossible-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2568-minimum-impossible-or) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Happy Coding 🚀
 | [0845-longest-mountain-in-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [1089-duplicate-zeros](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
