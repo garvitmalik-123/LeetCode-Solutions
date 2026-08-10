@@ -113,6 +113,7 @@ Happy Coding 🚀
 | [0151-reverse-words-in-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0925-long-pressed-name](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -163,6 +164,7 @@ Happy Coding 🚀
 | [0443-string-compression](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
+| [0925-long-pressed-name](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [1089-duplicate-zeros](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
