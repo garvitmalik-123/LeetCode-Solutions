@@ -84,6 +84,7 @@ Happy Coding 🚀
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2568-minimum-impossible-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2568-minimum-impossible-or) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -122,11 +123,13 @@ Happy Coding 🚀
 ## Greedy
 |  |
 | ------- |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -140,6 +143,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +173,7 @@ Happy Coding 🚀
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3794-reverse-string-prefix](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
