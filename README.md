@@ -79,6 +79,7 @@ Happy Coding 🚀
 | [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
@@ -147,6 +148,7 @@ Happy Coding 🚀
 ## Binary Search
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Math
@@ -176,6 +178,7 @@ Happy Coding 🚀
 | [0925-long-pressed-name](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
