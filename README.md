@@ -207,4 +207,5 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 <!---LeetCode Topics End-->
