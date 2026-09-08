@@ -163,6 +163,7 @@ Happy Coding 🚀
 | [1927-sum-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3649-number-of-perfect-pairs](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3649-number-of-perfect-pairs) |
+| [3870-count-commas-in-range](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
