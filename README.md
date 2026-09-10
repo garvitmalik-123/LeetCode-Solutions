@@ -222,4 +222,24 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
