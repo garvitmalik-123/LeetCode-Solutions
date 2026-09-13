@@ -75,6 +75,7 @@ Happy Coding 🚀
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0942-di-string-match) |
@@ -249,4 +250,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
