@@ -162,6 +162,7 @@ Happy Coding 🚀
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -254,4 +255,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
