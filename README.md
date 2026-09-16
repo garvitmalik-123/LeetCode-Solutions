@@ -166,6 +166,7 @@ Happy Coding 🚀
 | ------- |
 | [0836-rectangle-overlap](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3649-number-of-perfect-pairs](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3649-number-of-perfect-pairs) |
@@ -175,6 +176,7 @@ Happy Coding 🚀
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
@@ -184,6 +186,7 @@ Happy Coding 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Two Pointers
 |  |
@@ -263,4 +266,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
