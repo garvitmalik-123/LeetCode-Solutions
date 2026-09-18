@@ -112,6 +112,7 @@ Happy Coding 🚀
 ## Hash Table
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -124,6 +125,7 @@ Happy Coding 🚀
 | [0696-count-binary-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0925-long-pressed-name](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0942-di-string-match) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -135,6 +137,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0942-di-string-match) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -142,6 +145,7 @@ Happy Coding 🚀
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
