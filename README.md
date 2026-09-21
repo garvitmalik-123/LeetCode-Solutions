@@ -99,6 +99,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
@@ -169,6 +170,7 @@ Happy Coding 🚀
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -262,6 +264,7 @@ Happy Coding 🚀
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
