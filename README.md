@@ -76,6 +76,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0835-image-overlap](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -100,6 +101,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
