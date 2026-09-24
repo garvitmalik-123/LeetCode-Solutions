@@ -93,6 +93,7 @@ Happy Coding 🚀
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3649-number-of-perfect-pairs](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -180,6 +181,7 @@ Happy Coding 🚀
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3649-number-of-perfect-pairs](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3870-count-commas-in-range](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
