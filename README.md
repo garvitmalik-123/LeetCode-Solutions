@@ -107,6 +107,7 @@ Happy Coding 🚀
 | [0191-number-of-1-bits](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
