@@ -138,6 +138,7 @@ Happy Coding 🚀
 | [0696-count-binary-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0925-long-pressed-name](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0942-di-string-match) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -302,9 +303,11 @@ Happy Coding 🚀
 ## Stack
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
