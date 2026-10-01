@@ -133,6 +133,7 @@ Happy Coding 🚀
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -303,11 +304,13 @@ Happy Coding 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
