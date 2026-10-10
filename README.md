@@ -87,6 +87,7 @@ Happy Coding 🚀
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2401-longest-nice-subarray](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -162,6 +163,7 @@ Happy Coding 🚀
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -171,6 +173,7 @@ Happy Coding 🚀
 | [0268-missing-number](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -189,6 +192,7 @@ Happy Coding 🚀
 | ------- |
 | [0268-missing-number](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Math
@@ -331,4 +335,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
