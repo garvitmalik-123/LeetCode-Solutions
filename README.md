@@ -93,6 +93,7 @@ Happy Coding 🚀
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2568-minimum-impossible-or](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2568-minimum-impossible-or) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -253,6 +254,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
