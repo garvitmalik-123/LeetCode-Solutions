@@ -199,6 +199,7 @@ Happy Coding 🚀
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
