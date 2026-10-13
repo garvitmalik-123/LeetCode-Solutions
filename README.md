@@ -99,6 +99,7 @@ Happy Coding 🚀
 | [3483-unique-3-digit-even-numbers](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3649-number-of-perfect-pairs](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3649-number-of-perfect-pairs) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -168,6 +169,7 @@ Happy Coding 🚀
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Happy Coding 🚀
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3649-number-of-perfect-pairs](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3649-number-of-perfect-pairs) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
