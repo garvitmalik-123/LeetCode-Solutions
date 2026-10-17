@@ -98,6 +98,7 @@ Happy Coding 🚀
 | [3132-find-the-integer-added-to-array-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3649-number-of-perfect-pairs](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
@@ -134,6 +135,7 @@ Happy Coding 🚀
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## String
 |  |
@@ -181,6 +183,7 @@ Happy Coding 🚀
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3132-find-the-integer-added-to-array-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3649-number-of-perfect-pairs](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
