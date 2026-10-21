@@ -159,6 +159,7 @@ Happy Coding 🚀
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3794-reverse-string-prefix](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
