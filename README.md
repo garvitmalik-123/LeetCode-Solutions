@@ -349,4 +349,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
