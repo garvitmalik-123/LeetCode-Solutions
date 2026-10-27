@@ -357,4 +357,5 @@ Happy Coding 🚀
 | [0196-delete-duplicate-emails](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0595-big-countries) |
+| [0627-swap-sex-of-employees](https://github.com/garvitmalik-123/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
